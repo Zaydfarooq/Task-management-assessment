@@ -38,6 +38,20 @@ Start the Backend Server
 
 In the backend directory, start the server using nodemon:
 
+
+
+
+Steps to run this project:
+
+1. clone the project
+2. "install dependencies and modules-- "npm install" in both frontend and backend
+3. install modemon in backend using npm i nodemon
+4. Add your personalized mongoDB key to .env file
+5. Start Server in backend using "nodemon app.js"
+6. start client server in frontend by using "npm start"
+7. HERE WE GO! PROJECT SHOULD SUCCESFULLY RUN
+8. PS: you can use vite also, sometimes
+
 cd backend
 nodemon app.js
 Start the Frontend Server
